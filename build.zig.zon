@@ -1,6 +1,6 @@
 .{
     .name = .sdl2_prebuilt_macos,
-    .version = "0.2.0",
+    .version = "1.0.0-dev",
     .paths = .{
         "build.zig.zon",
         "Frameworks",
